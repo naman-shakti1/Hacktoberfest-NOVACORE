@@ -494,9 +494,9 @@ Do not add a licence badge, build badge, coverage percentage, security guarantee
 
 ## 👥 Authors
 
-- Mayank Gupta — @Mayank-704
-- Shivam Verma — @mr-shivam06
-- Neha Jaiswal — @nehajaiswal-cse
-- Naman Shakti — @naman-shakti1
+- Mayank Gupta — [Mayank-704](https://github.com/Mayank-704)
+- Shivam — [mr-shivam06](https://github.com/mr-shivam06)
+- Neha Jaiswal — [nehajaiswal-cse](https://github.com/nehajaiswal-cse)
+- Naman — [naman-shakti1](https://github.com/naman-shakti1)
 
 </div>
