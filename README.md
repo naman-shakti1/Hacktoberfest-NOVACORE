@@ -492,4 +492,11 @@ Do not add a licence badge, build badge, coverage percentage, security guarantee
 
 **VASP Desk v0.3 · Bitcoin investigation prototype · Built for local learning and experimentation**
 
+## 👥 Authors
+
+- Mayank Gupta — @Mayank-704
+- Shivam Verma — @mr-shivam06
+- Neha Jaiswal — @nehajaiswal-cse
+- Naman Shakti — @naman-shakti1
+
 </div>
